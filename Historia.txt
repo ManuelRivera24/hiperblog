@@ -7,3 +7,5 @@ Y soy Ingeniero de Sistemas
 Graduado en la Universidad de la Amazonia.
 
 Hoy hablaremos de su historia
+
+Ahora hace un curso de Git y GitHub
